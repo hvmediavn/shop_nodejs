@@ -7,7 +7,7 @@ sudo apt update
 sudo apt -y upgrade
 ```
 
-####Step 2: Add Node.js APT Repository
+#### Step 2: Add Node.js APT Repository
 All releases of Node.js are derivable from the official APT repository. However, this needs to be added to your system manually.
 
 ```
